@@ -36,7 +36,7 @@ function Team() {
                     <div className="row pt-3">
                         <div className="team-profil col-md-4">
                             <img className="rounded-circle" src={require("../../assets/fplucu.jpg").default} alt="profil1" width="150" />
-                            <h5 className="name">Muhammad Rafiqul Adnan</h5>
+                            <h5 className="name">Muh Rafiqul Adnan</h5>
                             <p>19.11.3247</p>
                             <p className="deskripsi">Front-End Dev</p>
                         </div>
