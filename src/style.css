@@ -1,0 +1,157 @@
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: #4a1b9d;
+}
+
+ul.navbar-nav li a:hover {
+    color:rgb(212, 209, 209) !important;
+}
+
+.gradient {
+    background: rgb(103, 56, 185);
+    background: linear-gradient(90deg, rgba(103, 56, 185, 1) 0%, rgba(124, 90, 173, 1) 59%, rgba(226, 0, 255, 1) 100%);
+}
+
+.btnbeliskrg {
+    background-color: #ffa41c;
+    color: white;
+}
+
+.btnbeliskrg:hover {
+    background-color:  #FFB12C;
+    color: white;
+}
+
+hr {
+    clear: both;
+    visibility: hidden;
+}
+
+.page-header {
+    color: white;
+    padding-top: 30px;
+    height: 500px;
+}
+
+.name {
+    padding-top: 15px;
+}
+
+.foto2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 370px;
+}
+
+.svgatas {
+    margin-top: -50px;
+}
+
+.fotobyrama {
+    width: 30%;
+}
+
+.card{
+    width: 16rem;
+}
+
+.row .card {
+    margin: auto;
+}
+
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0, 4);
+    transform: scale(1.02);
+}
+
+.border-primary {
+    border-color:#fa962e !important;
+}
+
+.pfuter:hover{
+    cursor: pointer; 
+    color:#ffa41c;
+}
+
+footer {
+    background-color: #4c16a7 !important;
+}
+
+section {
+    padding-top: 3rem;
+}
+
+.carousel {
+	margin: 50px auto;
+	padding: 0 70px;
+}
+.carousel-item {
+	color: #999;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 290px;
+}
+.carousel .item .img-box {
+	width: 135px;
+	height: 135px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+}
+.carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {
+	padding: 30px 0 10px;
+}
+.carousel .overview {	
+	font-style: italic;
+}
+.carousel .overview b {
+	text-transform: uppercase;
+	color: #fa962e;
+}
+.carousel .carousel-control {
+	width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+	background: none;
+}
+.carousel-control i {
+    font-size: 68px;
+	line-height: 42px;
+    position: absolute;
+    display: inline-block;
+	color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.carousel .carousel-indicators {
+	bottom: -40px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 10px;
+	height: 10px;
+	margin: 1px 3px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background: #999;
+	border-color: transparent;
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-indicators li.active {	
+	background: #555;		
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
