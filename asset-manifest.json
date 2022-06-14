@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0f16b5a1.chunk.css",
+    "main.js": "./static/js/main.b2274b82.chunk.js",
+    "main.js.map": "./static/js/main.b2274b82.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.391b9de4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.391b9de4.js.map",
+    "static/js/2.eeb3065b.chunk.js": "./static/js/2.eeb3065b.chunk.js",
+    "static/js/2.eeb3065b.chunk.js.map": "./static/js/2.eeb3065b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.0f16b5a1.chunk.css.map": "./static/css/main.0f16b5a1.chunk.css.map",
+    "static/js/2.eeb3065b.chunk.js.LICENSE.txt": "./static/js/2.eeb3065b.chunk.js.LICENSE.txt",
+    "static/media/david.jpg": "./static/media/david.ed50a08f.jpg",
+    "static/media/fplucu.jpg": "./static/media/fplucu.75aa1a27.jpg",
+    "static/media/gledek.jpg": "./static/media/gledek.3159e3da.jpg",
+    "static/media/homecontent.png": "./static/media/homecontent.1582c662.png",
+    "static/media/keyboard.jpg": "./static/media/keyboard.15ff2886.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.391b9de4.js",
+    "static/js/2.eeb3065b.chunk.js",
+    "static/css/main.0f16b5a1.chunk.css",
+    "static/js/main.b2274b82.chunk.js"
+  ]
+}
